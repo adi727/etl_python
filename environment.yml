@@ -1,0 +1,5 @@
+name: etl_py_env
+channels:
+  - defaults
+prefix: /Users/adrian/opt/anaconda3/envs/etl_py_env
+
